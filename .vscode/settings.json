@@ -1,0 +1,13 @@
+{
+  "breadcrumbs.enabled": true,
+  "window.zoomLevel": 0,
+  "javascript.validate.enable": false,
+  "terminal.integrated.windowsEnableConpty": false,
+  "terminal.integrated.shellArgs.windows": ["-NoLogo"],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
